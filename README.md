@@ -22,6 +22,13 @@
 Happy coding! 😊💻
 
 
+# Technologies I Know
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,c++)](https://skillicons.dev)
+
+
 # Current Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neharvard%20&theme=ayu-mirage)](https://git.io/streak-stats)
+
+

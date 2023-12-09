@@ -24,7 +24,7 @@ Happy coding! 😊💻
 
 # Technologies I Know
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,c++)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp)](https://skillicons.dev)
 
 
 # Current Stats

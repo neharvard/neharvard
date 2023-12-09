@@ -1,6 +1,8 @@
 ### Hi there 👋
 
+
 ![Banner](https://raw.githubusercontent.com/neharvard/neharvard/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -10,4 +12,8 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+# Current Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neharvard%20&theme=ayu-mirage)](https://git.io/streak-stats)

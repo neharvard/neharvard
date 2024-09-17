@@ -17,7 +17,6 @@
 
 🚀 When I'm not immersed in code, you can find me exploring the latest tech trends, participating in hackathons, or engaging in collaborative projects that push boundaries and foster innovation.
 
-🔗 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and reach out for discussions, collaborations, or just to say hello.
 
 Happy coding! 😊💻
 

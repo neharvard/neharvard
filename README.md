@@ -27,7 +27,6 @@ Happy coding! 😊💻
 
 
 # Current Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=neharvard)](https://git.io/streak-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neharvard%20&theme=ayu-mirage)](https://git.io/streak-stats)
 
 # Reach Me Out

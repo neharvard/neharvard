@@ -27,8 +27,9 @@ Happy coding! 😊💻
 
 
 # Current Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=neharvard&theme=dark)](https://git.io/streak-stats)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=neharvard&show_icons=true&count_private=true&theme=dark" alt="neharvard" />
+  
+<!--  CONTRIBUTION AND STREAK BLOCK -->
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neharvard&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
 
 # Reach Me Out
 

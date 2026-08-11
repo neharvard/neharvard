@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/neharvard/neharvard/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png" alt="Banner" width="100%" />
 
-<h1 align="center">Assalamu Alaikum (Peace be upon you), I'm Umme Kulsum Neha <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="35" alt="Waving Hand" /></h1>
+<h1 align="center">Hi there, I'm Umme Kulsum Neha <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="35" alt="Waving Hand" /></h1>
 
 <h3 align="center">Junior Software Engineer | Backend Developer | Competitive Programmer</h3>
 
@@ -25,16 +25,35 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/neharvard/neharvard/main/assets/national-girls-contest-2022.jpg" width="48%" />
+  <img src="https://raw.githubusercontent.com/neharvard/neharvard/main/assets/intra-university-contest-2023.jpg" width="48%" />
+</p>
+
+---
+
 ### 👩‍💻 About Me
 
-- 🔭 Currently working as a **Junior Software Engineer** at **Bengal Mobile QA Solution**, building healthcare & hotel management platforms
-- 🎓 B.Sc. in Computer Science & Engineering from **International Islamic University Chittagong**
-- 🧩 Solved **1500+** problems across multiple online judges
-- 🏆 Champion — IIUC Intra University Programming Contest
-- 🥇 Ranked 64th (10th in Chittagong Division) — National Girls' Programming Contest 2022
-- 🌱 Currently exploring advanced backend architecture, system design, and scalable API development
-- 💬 Ask me about **NestJS, PostgreSQL, REST APIs, and Backend Architecture**
-- 📫 Reach me at: **ummeneha99@gmail.com**
+<table>
+  <tr>
+    <td valign="top" width="62%">
+      <ul>
+        <li>🔭 Currently working as a <strong>Junior Software Engineer</strong> at <strong>Bengal Mobile QA Solution</strong>, building healthcare & hotel management platforms</li>
+        <li>🎓 B.Sc. in Computer Science & Engineering from <strong>International Islamic University Chittagong</strong> (CGPA: 3.50/4.00)</li>
+        <li>🧩 Solved <strong>1500+</strong> problems across multiple online judges</li>
+        <li>🏆 Champion — IIUC Intra University Programming Contest</li>
+        <li>🥇 Ranked 64th (10th in Chittagong Division) — National Girls' Programming Contest 2022</li>
+        <li>🌱 Currently exploring advanced backend architecture, system design, and scalable API development</li>
+        <li>💬 Ask me about <strong>NestJS, PostgreSQL, REST APIs, and Backend Architecture</strong></li>
+        <li>📫 Reach me at: <strong>ummeneha99@gmail.com</strong></li>
+        <li>📍 Based in North Halishahar, Chittagong, Bangladesh</li>
+      </ul>
+    </td>
+    <td valign="top" width="38%" align="center">
+      <img src="https://raw.githubusercontent.com/neharvard/neharvard/main/assets/typing-hijab.svg" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -151,25 +170,52 @@
 
 ### 📊 GitHub Stats
 
+<table align="center">
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=neharvard&show_icons=true&count_private=true&hide_border=true&hide_title=false&bg_color=F5E1C0&title_color=7A1F2B&icon_color=7A1F2B&text_color=3B2A1A" height="195" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neharvard&layout=donut&hide_border=true&langs_count=6&bg_color=F5E1C0&title_color=7A1F2B&text_color=3B2A1A" height="195" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neharvard&layout=donut-vertical&hide_border=true&langs_count=6&bg_color=F5E1C0&title_color=7A1F2B&text_color=3B2A1A" height="195" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neharvard&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neharvard&hide_border=true&background=F5E1C0&ring=7A1F2B&fire=7A1F2B&currStreakLabel=3B2A1A&sideLabels=3B2A1A&currStreakNum=3B2A1A&sideNums=3B2A1A&dates=3B2A1A" width="60%" />
 </p>
 
+> Note: GitHub's public API only reports language stats by repo size, so the two donut charts above currently show the same "by repo" breakdown — there isn't a public "by commit" equivalent to pull from without connecting a separate service (e.g. Wakatime).
+
+---
+
+### 🔗 Quick Links
+
+<p align="center">
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/📄_MY_CV-808080?style=for-the-badge&logoColor=white" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/📖_READ_MY_BLOGS-000000?style=for-the-badge&logoColor=white" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/▲_PORTFOLIO-333333?style=for-the-badge&logoColor=white" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/VISIT_WEBSITE-E4572E?style=for-the-badge&logoColor=white" /></a>
+</p>
 
 ---
 
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="mailto:ummeneha99@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/neharvard" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/StopStalk-Profile-2E9EF7?style=for-the-badge" />
-  </a>
+  <a href="mailto:ummeneha99@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/neharvard" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/StopStalk-2E9EF7?style=for-the-badge" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
 <p align="center">

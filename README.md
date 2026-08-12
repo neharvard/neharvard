@@ -55,11 +55,11 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack 
 
-<table align="center">
+<table align="center" style="border:none;">
   <tr>
-    <td valign="top">
+    <td valign="top" style="border:none;">
       <p><strong>🧠 Competitive Programming</strong></p>
       <p>
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -97,11 +97,13 @@
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
       </p>
     </td>
-    <td valign="top" width="220" align="center">
-      <img src="https://raw.githubusercontent.com/neharvard/neharvard/main/assets/spder man.gif" width="200" />
+    <td valign="middle" width="220" align="center" style="border:none;">
+      <img src="https://raw.githubusercontent.com/neharvard/neharvard/main/assets/Doctor Strange Hello GIF by Marvel Studios.gif" width="180" />
     </td>
   </tr>
 </table>
+
+---
 
 ### 🚀 Featured Projects
 

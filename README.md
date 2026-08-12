@@ -39,12 +39,13 @@
     <!-- <td valign="middle" width="65%"> -->
     <td >
       <ul>
-        <li>🔭 Currently working as a <strong>Junior Software Engineer</strong> at <strong>Bengal Mobile QA Solution</strong>, building healthcare & hotel management platforms</li>
+        <li>🔭 Currently working as a <strong>Junior Software Engineer</strong> at <strong>Bengal Mobile QA Solution</strong></li>
         <li>🎓 B.Sc. in Computer Science & Engineering from <strong>International Islamic University Chittagong</strong> </li>
-        <li>🧩 Solved <strong>1500+</strong> problems across multiple online judges</li>
-        <li>🏆 Champion — IIUC Intra University Programming Contest</li>
-        <li>🥇 Ranked 64th (10th in Chittagong Division) — National Girls' Programming Contest 2022</li>
         <li>🌱 Currently exploring advanced backend architecture, system design, and scalable API development</li>
+        <li>✈️ Beyond code: I'm a <strong>travel</strong> enthusiast and a bookworm who's always halfway through a story happiest when a good plot won't let me put it down</li>
+        <li>🎬 I also enjoy <strong>video/photo editing</strong> turning raw footage into something worth watching</li>
+        <li>☕ Fuel: coffee, and AI will replace me the day it stops hallucinating APIs that don't exist</em> 😄</li>
+        </br>
       </ul>
     </td>
     <td valign="middle" width="25%" align="center">

@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/neharvard/neharvard/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png" alt="Banner" width="100%" />
 
-<h1 align="center">Hi there, I'm Umme Kulsum Neha <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="35" alt="Waving Hand" /></h1>
+<h1 align="center">Assalamu Alikum (Peace Be Upon You), I'm Umme Kulsum Neha <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="35" alt="Waving Hand" /></h1>
 
 <h3 align="center">Junior Software Engineer | Backend Developer | Competitive Programmer</h3>
 

@@ -55,74 +55,53 @@
 
 ---
 
-
 ### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,js,py,html,css,tailwind,react,nodejs,nestjs,express,postgres,mongodb,prisma,firebase,git,github,vscode&theme=dark" />
-</p>
 
 <table align="center">
   <tr>
-    <td valign="top" width="33%">
-      <strong>🔤 Languages</strong>
-      <ul>
-        <li>C / C++</li>
-        <li>JavaScript</li>
-        <li>Python (Familiar)</li>
-      </ul>
+    <td valign="top">
+      <p><strong>🧠 Competitive Programming</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+      </p>
+      <p><strong>🎨 Frontend Development</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+      </p>
+      <p><strong>⚙️ Backend & Database</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST_APIs-4B5563?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logoColor=black" />
+      </p>
+      <p><strong>🔐 Auth, Docs & Infra</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+      </p>
+      <p><strong>🧰 Version Control</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </p>
     </td>
-    <td valign="top" width="33%">
-      <strong>🎨 Frontend</strong>
-      <ul>
-        <li>HTML / CSS</li>
-        <li>Tailwind CSS</li>
-        <li>React.js (Familiar)</li>
-      </ul>
-    </td>
-    <td valign="top" width="33%">
-      <strong>⚙️ Backend & DB</strong>
-      <ul>
-        <li>Node.js / NestJS</li>
-        <li>REST APIs</li>
-        <li>PostgreSQL / MongoDB</li>
-        <li>Prisma / Drizzle ORM</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-### 💼 Experience
-
-<table>
-  <tr>
-    <td>🔹</td>
-    <td>
-      <strong>Junior Software Engineer</strong> — Bengal Mobile QA Solution <br/>
-      <em>October 2026 – Present · Chittagong, Bangladesh</em>
-      <ul>
-        <li>Building <strong>Hope</strong>, a healthcare marketplace for patient & nurse booking — owned long-term care APIs, provider availability, admin search, reporting, FCM notifications, and medicine reminders</li>
-        <li>Developing <strong>Otithi</strong>, a hotel management platform — designed scalable backend modules for Property, Room Category, Booking, FAQ, and Floor management</li>
-        <li>Stack: NestJS, PostgreSQL, Drizzle ORM, Prisma, JWT/RBAC, Firebase FCM, Swagger</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>🔹</td>
-    <td>
-      <strong>Software Engineer Trainee</strong> — Genesys Software <br/>
-      <em>January 2025 – April 2025 · Dhaka, Bangladesh</em>
-      <ul>
-        <li>Built scalable backend services and APIs using NestJS, JavaScript, and MongoDB</li>
-        <li>Contributed to frontend development using Vue.js, gaining full-stack workflow experience</li>
-      </ul>
+    <td valign="top" width="220" align="center">
+      <img src="https://raw.githubusercontent.com/neharvard/neharvard/main/assets/spder man.gif" width="200" />
     </td>
   </tr>
 </table>
-
----
 
 ### 🚀 Featured Projects
 
@@ -187,8 +166,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=neharvard&hide_border=true&background=F5E1C0&ring=7A1F2B&fire=7A1F2B&currStreakLabel=3B2A1A&sideLabels=3B2A1A&currStreakNum=3B2A1A&sideNums=3B2A1A&dates=3B2A1A" width="60%" />
 </p>
 
-> Note: GitHub's public API only reports language stats by repo size, so the two donut charts above currently show the same "by repo" breakdown — there isn't a public "by commit" equivalent to pull from without connecting a separate service (e.g. Wakatime).
-
 ---
 
 ### 🔗 Quick Links
@@ -196,7 +173,6 @@
 <p align="center">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/📄_MY_CV-808080?style=for-the-badge&logoColor=white" /></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/📖_READ_MY_BLOGS-000000?style=for-the-badge&logoColor=white" /></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/▲_PORTFOLIO-333333?style=for-the-badge&logoColor=white" /></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/VISIT_WEBSITE-E4572E?style=for-the-badge&logoColor=white" /></a>
 </p>
@@ -209,8 +185,6 @@
   <a href="mailto:ummeneha99@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/neharvard" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/StopStalk-2E9EF7?style=for-the-badge" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>

@@ -34,28 +34,27 @@
 
 ### 👩‍💻 About Me
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td valign="top" width="62%">
+    <!-- <td valign="middle" width="65%"> -->
+    <td >
       <ul>
         <li>🔭 Currently working as a <strong>Junior Software Engineer</strong> at <strong>Bengal Mobile QA Solution</strong>, building healthcare & hotel management platforms</li>
-        <li>🎓 B.Sc. in Computer Science & Engineering from <strong>International Islamic University Chittagong</strong> (CGPA: 3.50/4.00)</li>
+        <li>🎓 B.Sc. in Computer Science & Engineering from <strong>International Islamic University Chittagong</strong> </li>
         <li>🧩 Solved <strong>1500+</strong> problems across multiple online judges</li>
         <li>🏆 Champion — IIUC Intra University Programming Contest</li>
         <li>🥇 Ranked 64th (10th in Chittagong Division) — National Girls' Programming Contest 2022</li>
         <li>🌱 Currently exploring advanced backend architecture, system design, and scalable API development</li>
-        <li>💬 Ask me about <strong>NestJS, PostgreSQL, REST APIs, and Backend Architecture</strong></li>
-        <li>📫 Reach me at: <strong>ummeneha99@gmail.com</strong></li>
-        <li>📍 Based in North Halishahar, Chittagong, Bangladesh</li>
       </ul>
     </td>
-    <td valign="top" width="38%" align="center">
-      <img src="https://raw.githubusercontent.com/neharvard/neharvard/main/assets/typing-hijab.svg" width="100%" />
+    <td valign="middle" width="25%" align="center">
+      <img src="https://raw.githubusercontent.com/neharvard/neharvard/main/assets/typing-hijab.png" width="220" />
     </td>
   </tr>
 </table>
 
 ---
+
 
 ### 🛠️ Tech Stack
 

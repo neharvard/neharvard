@@ -151,20 +151,6 @@
 
 ### 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=neharvard&show_icons=true&count_private=true&hide_border=true&hide_title=false&bg_color=F5E1C0&title_color=7A1F2B&icon_color=7A1F2B&text_color=3B2A1A" height="195" />
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neharvard&layout=donut&hide_border=true&langs_count=6&bg_color=F5E1C0&title_color=7A1F2B&text_color=3B2A1A" height="195" />
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neharvard&layout=donut-vertical&hide_border=true&langs_count=6&bg_color=F5E1C0&title_color=7A1F2B&text_color=3B2A1A" height="195" />
-    </td>
-  </tr>
-</table>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=neharvard&hide_border=true&background=F5E1C0&ring=7A1F2B&fire=7A1F2B&currStreakLabel=3B2A1A&sideLabels=3B2A1A&currStreakNum=3B2A1A&sideNums=3B2A1A&dates=3B2A1A" width="60%" />
 </p>

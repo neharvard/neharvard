@@ -152,7 +152,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neharvard&hide_border=true&background=F5E1C0&ring=7A1F2B&fire=7A1F2B&currStreakLabel=3B2A1A&sideLabels=3B2A1A&currStreakNum=3B2A1A&sideNums=3B2A1A&dates=3B2A1A" width="60%" />
+  <img src="https://raw.githubusercontent.com/neharvard/neharvard/main/assets/dr stranger.gif" width="130" hspace="-18" align="middle" alt="Doctor Strange" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neharvard&hide_border=true&background=F5E1C0&ring=7A1F2B&fire=7A1F2B&currStreakLabel=3B2A1A&sideLabels=3B2A1A&currStreakNum=3B2A1A&sideNums=3B2A1A&dates=3B2A1A" width="495" hspace="18" align="middle" alt="GitHub streak stats" />
+  <img src="https://raw.githubusercontent.com/neharvard/neharvard/main/assets/stranger.gif" width="130" hspace="18" align="middle" alt="Scarlet Witch" />
 </p>
 
 ---

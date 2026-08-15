@@ -106,6 +106,27 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/neharvard/neharvard/main/assets/dr stranger.gif" width="130" hspace="-18" align="middle" alt="Doctor Strange" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neharvard&hide_border=true&background=F5E1C0&ring=7A1F2B&fire=7A1F2B&currStreakLabel=3B2A1A&sideLabels=3B2A1A&currStreakNum=3B2A1A&sideNums=3B2A1A&dates=3B2A1A" width="495" hspace="18" align="middle" alt="GitHub streak stats" />
+  <img src="https://raw.githubusercontent.com/neharvard/neharvard/main/assets/stranger.gif" width="130" hspace="18" align="middle" alt="Scarlet Witch" />
+</p>
+
+---
+
+### 🏆 Honors & Accomplishments
+
+<img align="right" width="110" vspace="4" alt="Spider-Man" src="https://raw.githubusercontent.com/neharvard/neharvard/main/assets/spder%20man.gif" />
+
+- 🥇 **Champion** — IIUC Intra University Programming Contest (Team: IIUC_RackedTrio)
+- 🎖️ **Rank 64** (10th in Chittagong Division) — National Girls' Programming Contest 2022
+- 🏅 **5th Place** — IIUC Intra University Female Programming Contest, Autumn 2021 (Individual)
+
+ <br clear="all" /> 
+
+
 ### 🚀 Featured Projects
 
 <table>
@@ -141,31 +162,11 @@
 
 ---
 
-### 🏆 Honors & Accomplishments
-
-- 🥇 **Champion** — IIUC Intra University Programming Contest (Team: IIUC_RackedTrio)
-- 🎖️ **Rank 64** (10th in Chittagong Division) — National Girls' Programming Contest 2022
-- 🏅 **5th Place** — IIUC Intra University Female Programming Contest, Autumn 2021 (Individual)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/neharvard/neharvard/main/assets/dr stranger.gif" width="130" hspace="-18" align="middle" alt="Doctor Strange" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neharvard&hide_border=true&background=F5E1C0&ring=7A1F2B&fire=7A1F2B&currStreakLabel=3B2A1A&sideLabels=3B2A1A&currStreakNum=3B2A1A&sideNums=3B2A1A&dates=3B2A1A" width="495" hspace="18" align="middle" alt="GitHub streak stats" />
-  <img src="https://raw.githubusercontent.com/neharvard/neharvard/main/assets/stranger.gif" width="130" hspace="18" align="middle" alt="Scarlet Witch" />
-</p>
-
----
-
 ### 🔗 Quick Links
 
 <p align="center">
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/📄_MY_CV-808080?style=for-the-badge&logoColor=white" /></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/▲_PORTFOLIO-333333?style=for-the-badge&logoColor=white" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/VISIT_WEBSITE-E4572E?style=for-the-badge&logoColor=white" /></a>
 </p>
 
 ---

@@ -99,7 +99,7 @@
       </p>
     </td>
     <td valign="middle" width="220" align="center" style="border:none;">
-      <img src="https://raw.githubusercontent.com/neharvard/neharvard/main/assets/Doctor Strange Hello GIF by Marvel Studios.gif" width="180" />
+     <img src="https://raw.githubusercontent.com/neharvard/neharvard/main/assets/doctor-strange-hello-dark.gif" width="180" alt="Doctor Strange hello" />
     </td>
   </tr>
 </table>

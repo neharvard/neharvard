@@ -7,7 +7,8 @@
 
 <h3 align="center">Junior Software Engineer | Backend Developer | Competitive Programmer</h3>
 
-<p align="center">
+<!-- later comment out this section for adding the url of my profile -->
+<!-- <p align="center">
   <a href="https://github.com/neharvard" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-neharvard-181717?style=for-the-badge&logo=github" />
   </a>
@@ -18,6 +19,21 @@
     <img src="https://img.shields.io/badge/Codeforces-1047%20Max-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
   <a href="https://www.codechef.com/users/king_of_wa" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-1461%20Max-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</p> -->
+
+<p align="center">
+  <a href="https://github.com/neharvard" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-neharvard-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-780%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1047%20Max-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-1461%20Max-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>

@@ -184,6 +184,10 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/neharvard/neharvard/main/assets/3%20spider%20man.gif" width="420" alt="Spider-Man pointing" />
+</p>
+
+<p align="center">
   <em>"Facilitating knowledge sharing, embracing diverse experiences, and optimizing solutions for collective success."</em>
 </p>
 

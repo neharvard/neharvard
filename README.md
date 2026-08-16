@@ -1,4 +1,7 @@
-<img src="https://raw.githubusercontent.com/neharvard/neharvard/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png" alt="Banner" width="100%" />
+<!-- <img src="https://raw.githubusercontent.com/neharvard/neharvard/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png" alt="Banner" width="100%" /> -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/neharvard/neharvard/main/assets/github-readme-banner.png" alt="Where logic meets curiosity — the questions begin" width="750" />
+</p>
 
 <h1 align="center">Assalamu Alikum (Peace Be Upon You), I'm Umme Kulsum Neha <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="35" alt="Waving Hand" /></h1>
 

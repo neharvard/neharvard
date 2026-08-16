@@ -150,11 +150,30 @@
 
 ---
 
+<!-- <p align="center">
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/▲_PORTFOLIO-333333?style=for-the-badge&logoColor=white" /></a>
+</p>
+
+--- -->
 ### 🔗 Quick Links
 
 <p align="center">
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/▲_PORTFOLIO-333333?style=for-the-badge&logoColor=white" /></a>
+  <em>Writing, projects, and the rest of the trail in two clicks.</em>
+</p>
+
+<p align="center">
+  <a href="https://medium.com/@neharvard" target="_blank">
+    <img src="https://img.shields.io/badge/Read_on-Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/neharvard/webdeveloper-portfolio-" target="_blank">
+    <img src="https://img.shields.io/badge/View-Portfolio-7A1F2B?style=for-the-badge&logo=vercel&logoColor=F5E1C0" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/neharvard/neharvard/main/assets/3%20spider%20man.gif" width="380" alt="Spider-Man pointing" />
 </p>
 
 ---
@@ -171,9 +190,9 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/neharvard/neharvard/main/assets/3%20spider%20man.gif" width="420" alt="Spider-Man pointing" />
-</p>
+</p> -->
 
 <p align="center">
   <em>"Facilitating knowledge sharing, embracing diverse experiences, and optimizing solutions for collective success."</em>

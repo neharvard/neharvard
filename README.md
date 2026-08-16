@@ -186,9 +186,16 @@
     <img src="https://img.shields.io/badge/Read_on-Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/neharvard/webdeveloper-portfolio-" target="_blank">
+
+  <!-- later comment out this section for adding the url of my profile -->
+ <!-- <a href="https://github.com/neharvard/webdeveloper-portfolio-" target="_blank">
     <img src="https://img.shields.io/badge/View-Portfolio-7A1F2B?style=for-the-badge&logo=vercel&logoColor=F5E1C0" alt="Portfolio" />
   </a>
+  -->
+   <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/View-Portfolio-7A1F2B?style=for-the-badge&logo=vercel&logoColor=F5E1C0" alt="Portfolio" />
+  </a>
+  
 </p>
 
 <p align="center">
@@ -209,9 +216,6 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/neharvard/neharvard/main/assets/3%20spider%20man.gif" width="420" alt="Spider-Man pointing" />
-</p> -->
 
 <p align="center">
   <em>"Facilitating knowledge sharing, embracing diverse experiences, and optimizing solutions for collective success."</em>
